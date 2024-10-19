@@ -19,6 +19,7 @@ def apply_wildcard_tax(price):
         return price * 0.05
     return 0
 
+# what does this function do??? hello?
 def calculate_final_price(client, price): 
     final_price =  apply_basic_discount(price)
     if client in loyaltyMembers:
