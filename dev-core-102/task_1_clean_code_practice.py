@@ -35,5 +35,3 @@ client = input("enter your name :  ")
 price = float(input("enter your price :  ")) 
 final_price = calculate_final_price(client, price)
 print(f"{client} your final price is {final_price}")
-
-
