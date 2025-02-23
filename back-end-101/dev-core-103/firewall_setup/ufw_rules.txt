@@ -1,5 +1,0 @@
-Added user rules (see 'ufw status' for running firewall):
-ufw allow 'Nginx Full'
-ufw limit 80/tcp
-ufw limit 443/tcp
-ufw allow from 164.92.239.171 to any port 22
