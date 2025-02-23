@@ -1,0 +1,7 @@
+$ nslookup madina.owlmasters.dev
+Non-authoritative answer:
+Server:  UnKnown
+Address:  fe80::1
+
+Name:    madina.owlmasters.dev
+Address:  164.92.239.171
